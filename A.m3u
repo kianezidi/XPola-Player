@@ -746,3 +746,30 @@ http://tv.novav2.info/salah2/2salah/94875
 salah/94876
 #EXTINF:-1 group-title="SSC SPORTS" ,SSC Extra 3 4K H265
 http://tv.novav2.info/salah2/2salah/94875
+
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png", AQ
+http://tv.novav2.info/salah2/2salah/94875
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png", AW
+http://ktv.im:8080/live/8000865368/4663112367/49531.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png", AQ
+http://tv.novav2.info/salah2/2salah/94875
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png", AW
+http://ktv.im:8080/live/8000865368/4663112367/49531.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png", AQ
+http://tv.novav2.info/salah2/2salah/94875
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png", AW
+http://ktv.im:8080/live/8000865368/4663112367/49531.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png", AQ
+http://tv.novav2.info/salah2/2salah/94875
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png", AW
+http://ktv.im:8080/live/8000865368/4663112367/49531.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png", AQ
+http://tv.novav2.info/salah2/2salah/94875
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png", AW
+http://ktv.im:8080/live/8000865368/4663112367/49531.m3u8
