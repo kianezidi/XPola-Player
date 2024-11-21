@@ -1,0 +1,471 @@
+
+
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png#EXTM3U
+#EXTINF:-1,beIN Sport HD1
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142736
+#EXTINF:-1,beIN Sport HD2
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142737
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS3.png" tvg-id="beinsports3.qa" ,beIN SPORTS 3 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142738
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS4.png" tvg-id="beinsports4.qa" ,beIN SPORTS 4 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142739
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS5.png" tvg-id="beinsports5.qa" ,beIN SPORTS 5 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142740
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS6.png" tvg-id="beinsports6.qa" ,beIN SPORTS 6 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142741
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS7.png" tvg-id="beinsports7.qa" ,beIN SPORTS 7 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142742
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS8.png" tvg-id="beinsports1premium.qa" ,beIN SPORTS 8 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142733
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS9.png" tvg-id="beinsports2premium.qa" ,beIN SPORTS 9 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142734
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.NBA.png" tvg-id="beinsportsnba.qa" ,beIN SPORTS NBA HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142745
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA1.png" ,beIN Sport EXTRA 1 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/421893
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA2.png" ,beIN Sport EXTRA 2 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/421894
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA3.png" tvg-id="beinsports3premium.qa" ,beIN Sport EXTRA 3 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142735
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH1.png" tvg-id="beinsports1en.qa" ,beIN SPORTS 1 English HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142743
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH2.png" tvg-id="beinsports2en.qa" ,beIN SPORTS 2 English HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142744
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH1.png" tvg-id="beinsports1fr.qa" ,beIN SPORTS 1 French HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142746
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH2.png" tvg-id="beinsports2fr.qa" ,beIN SPORTS 2 French HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142747
+#EXTINF:-1 group-title="bein Sports HD ⚽" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH3.png" tvg-id="beinsports3fr.qa" ,beIN SPORTS 3 French HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142748
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" tvg-id="beinsportsnewsar.qa" ,beIN Sports News SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142751
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS1.png" tvg-id="beinsports1ar.qa" ,beIN SPORTS 1 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142755
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS2.png" tvg-id="beinsports2ar.qa" ,beIN SPORTS 2 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142756
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS3.png" tvg-id="beinsports3ar.qa" ,beIN SPORTS 3 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142757
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS4.png" tvg-id="beinsports4ar.qa" ,beIN SPORTS 4 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142758
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS5.png" tvg-id="beinsports5ar.qa" ,beIN SPORTS 5 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142759
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS6.png" tvg-id="beinsports6ar.qa" ,beIN SPORTS 6 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142760
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS7.png" tvg-id="beinsports7ar.qa" ,beIN SPORTS 7 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142761
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS8.png" tvg-id="beinsports1premiumar.qa" ,beIN SPORTS 8 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142752
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS9.png" tvg-id="beinsports2premiumar.qa" ,beIN SPORTS 9 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142753
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.NBA.png" tvg-id="beinsportsnba.qa" ,beIN SPORTS NBA SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142764
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA1.png" ,beIN Sport EXTRA 1 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/421895
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA2.png" ,beIN Sport EXTRA 2 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/421896
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA3.png" tvg-id="beinsports3premiumar.qa" ,beIN Sport EXTRA 3 SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142754
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH1.png" tvg-id="beinsports1en.qa" ,beIN SPORTS 1 English SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142762
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH2.png" tvg-id="beinsports2enar.qa" ,BeIN SPORTS 2 English SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142763
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH1.png" tvg-id="beinsports1fr.qa" ,BeIN SPORTS 1 French SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142765
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH2.png" tvg-id="beinsports2fr.qa" ,beIN SPORTS 2 French SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142766
+#EXTINF:-1 group-title="bein Sports SD ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH3.png" tvg-id="beinsports3fr.qa" ,beIN SPORTS 3 French SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/142767
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="http://194.163.160.164/SSC/SSC.NEWS.png" ,SSC  NEWS FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/382511
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="http://194.163.160.164/SSC/SSC1.png" ,SSC1  FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/382512
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="http://194.163.160.164/SSC/SSC2.png" ,SSC2  FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/382513
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="http://194.163.160.164/SSC/SSC3.png" ,SSC3  FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/382514
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="http://194.163.160.164/SSC/SSC4.png" ,SSC4  FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/382515
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="http://194.163.160.164/SSC/SSC5.png" ,SSC5  FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/382516
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="http://194.163.160.164/SSC/SSC.EXTRA1.png" ,SSC EXTRA 1 FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/382508
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="http://194.163.160.164/SSC/SSC.EXTRA2.png" ,SSC EXTRA 2 FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/382509
+#EXTINF:-1 group-title="SSC FHD ⚽" tvg-logo="http://194.163.160.164/SSC/SSC.EXTRA3.png" ,SSC EXTRA 3 FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/382510
+#EXTINF:-1 group-title="bein Alkass ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.ALKASS1.png" tvg-id="alkassone.qa" ,Bein Alkass 1 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/186853
+#EXTINF:-1 group-title="bein Alkass ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.ALKASS2.png" tvg-id="alkasstwo.qa" ,Bein Alkass 2 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/186854
+#EXTINF:-1 group-title="bein Alkass ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.ALKASS3.png" tvg-id="alkassthree.qa" ,Bein Alkass 3 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/356598
+#EXTINF:-1 group-title="bein Alkass ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.ALKASS4.png" tvg-id="alkassfour.qa" ,Bein Alkass 4 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/186856
+#EXTINF:-1 group-title="bein Alkass ⚽ " tvg-logo="http://194.163.160.164/BEIN/BEIN.ALKASS5.png" tvg-id="alkassfive.qa" ,Bein Alkass 5 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/186857
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/STARZPLAY/ALFAJR.png" ,Al Fajer 1 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/385884
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/WWE.png" ,WWE ENGLISH SHAHID LIVE EVENT
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/96715
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/WWE.png" ,WWE ARABIC SHAHID LIVE EVENT
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/249298
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT1.png" ,AD Sport 1 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/165408
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT2.png" ,AD Sport 2 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/165409
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/STARZPLAY/ALFAJR.png" ,Al Fajer 2 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/247219
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/STARZPLAY/ALFAJR.png" ,Al Fajer 3 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/247222
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/STARZPLAY/ALFAJR.png" ,Al Fajer 4 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/31623
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/STARZPLAY/ALFAJR.png" ,Al Fajer 5 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/31622
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/JAZZERA.DOCUMENTARY.png" tvg-id="aljazeeradocumentary.qa" ,AR: Al Jazeera Documentary FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/153088
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/BAHRAIN.SPORT1.png" ,BH- Bahrain Sports 1 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/124540
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/BAHRAIN.SPORT2.png" ,BH- Bahrain Sports 2 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/145757
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/WWE.png" ,SP- WWE HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/70287
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT1.png" ,SPORT- Abu Dhabi Sports 1 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33671
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT2.png" ,SPORT- Abu Dhabi Sports  2 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33672
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/STARZPLAY/SHABABSPORT1.png" ,Sport- Al Shabab Sport HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/105527
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/DUBAIRACING1.png" ,SPORT- Dubai Racing 1 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33670
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/DUBAIRACING2.png" ,SPORT- Dubai Racing 2 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33561
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/DUBAIRACING3.png" ,SPORT- Dubai Racing 3 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33562
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/DUBAISPORT1.png" ,SPORT- Dubai Sport 1 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33461
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/DUBAISPORT2.png" ,SPORT- Dubai Sport 2 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33563
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/DUBAISPORT3.png" ,SPORT- Dubai Sport 3 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33564
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/JORDANSPORT.png" ,SPORT- Jordan Sport TV
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33286
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/KSASPORT1.png" ,SPORT- KSA Sport 1 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33666
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/KSASPORT2.png" ,SPORT- KSA Sport 2 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33664
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/KSASPORT3.png" ,SPORT- KSA Sport 3 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33528
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/KSASPORT4.png" ,SPORT- KSA Sport 4 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33527
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/LIBYASPORT.png" ,SPORT- Libya Sport TV
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33389
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://www.vod-logo.net/photos/d5cb014ab200067438388b92fa457924.jpg" ,SPORT- On Sport 2
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33349
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://vod-logo.net/photos/16ef86cbf6f252e24005b8378c4f2d2e.jpg" ,SPORT- ON Sport HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33663
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/REALMADRID.png" ,SPORT- Realmadrid EN
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/68207
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/SAUDISPORT24.png" ,SPORT- Saudia Sport 24 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33565
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/ALSHARQASPORT.png" ,SPORT- Shariqa Sport TV HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33387
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/ALSHARQASPORT.png" ,SPORT- Shariqa Sport TV SD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/96743
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/TIMESPORT.png" ,SPORT- Time Sport HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/33348
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/WRAW.png" ,SPORT- WWE Raw HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/35621
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/ATG.png" ,Sport: ATG
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/96737
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/SHARJAH.png" ,Sport: Sharjah Sport HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/96751
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/UAE/ALLSPORT.png" ,Sport:ALL Sports
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/96736
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/SSC/SSC1.png" ,SSC1 FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/207620
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/SSC/SSC1.png" ,SSC 1 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/207621
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/SSC/SSC2.png" ,SSC 2 FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/207622
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/SSC/SSC2.png" ,SSC 2 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/207623
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/SSC/SSC3.png" ,SSC 3 FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/207624
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/SSC/SSC3.png" ,SSC 3 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/207625
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/SSC/SSC4.png" ,SSC 4 FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/207626
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/SSC/SSC4.png" ,SSC 4 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/207627
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/SSC/SSC5.png" ,SSC 5 FHD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/207628
+#EXTINF:-1 group-title="AR | Sports " tvg-logo="http://194.163.160.164/SSC/SSC5.png" ,SSC 5 HD
+http://forevertv.me:8080/a4:30:7a:10:5c:79aa/eImE2PTARF/207629
+
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 1 HD
+http://clicktv1.live/HaiderHlail/23735816/459
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 2 HD
+http://clicktv1.live/HaiderHlail/23735816/462
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 3 HD
+http://clicktv1.live/HaiderHlail/23735816/465
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 4 HD
+http://clicktv1.live/HaiderHlail/23735816/468
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 5 HD
+http://clicktv1.live/HaiderHlail/23735816/471
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 6 HD
+http://clicktv1.live/HaiderHlail/23735816/474
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 7 HD
+http://clicktv1.live/HaiderHlail/23735816/477
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 8 HD
+http://clicktv1.live/HaiderHlail/23735816/480
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 9 HD
+http://clicktv1.live/HaiderHlail/23735816/483
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC HD
+http://clicktv1.live/HaiderHlail/23735816/501
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC 1 HD
+http://clicktv1.live/HaiderHlail/23735816/502
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC 2 HD
+http://clicktv1.live/HaiderHlail/23735816/503
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC 3 HD
+http://clicktv1.live/HaiderHlail/23735816/504
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC 4 HD
+http://clicktv1.live/HaiderHlail/23735816/505
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC 5 HD
+http://clicktv1.live/HaiderHlail/23735816/506
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" , Bein Xtra HD1
+http://clicktv1.live/HaiderHlail/23735816/507
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS French HD1 720
+http://clicktv1.live/HaiderHlail/23735816/508
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS French HD2 720
+http://clicktv1.live/HaiderHlail/23735816/509
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS French HD3 720
+http://clicktv1.live/HaiderHlail/23735816/510
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS English HD1 720
+http://clicktv1.live/HaiderHlail/23735816/511
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴴᴰ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS English HD2 720
+http://clicktv1.live/HaiderHlail/23735816/512
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 1 SD
+http://clicktv1.live/HaiderHlail/23735816/513
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 2 SD
+http://clicktv1.live/HaiderHlail/23735816/514
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 3 SD
+http://clicktv1.live/HaiderHlail/23735816/515
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 4 SD
+http://clicktv1.live/HaiderHlail/23735816/516
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 5 SD
+http://clicktv1.live/HaiderHlail/23735816/517
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 6 SD
+http://clicktv1.live/HaiderHlail/23735816/518
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 7 SD
+http://clicktv1.live/HaiderHlail/23735816/519
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 8 SD
+http://clicktv1.live/HaiderHlail/23735816/520
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTSS 9 SD
+http://clicktv1.live/HaiderHlail/23735816/521
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC SD
+http://clicktv1.live/HaiderHlail/23735816/522
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC 1 SD
+http://clicktv1.live/HaiderHlail/23735816/523
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC 2 SD
+http://clicktv1.live/HaiderHlail/23735816/524
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC 3 SD
+http://clicktv1.live/HaiderHlail/23735816/525
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC 4 SD
+http://clicktv1.live/HaiderHlail/23735816/526
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS AFC 5 SD
+http://clicktv1.live/HaiderHlail/23735816/527
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" , Bein Xtra SD1
+http://clicktv1.live/HaiderHlail/23735816/528
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" , Bein Xtra SD2
+http://clicktv1.live/HaiderHlail/23735816/529
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS French SD1
+http://clicktv1.live/HaiderHlail/23735816/531
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS French SD2
+http://clicktv1.live/HaiderHlail/23735816/532
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS French SD3
+http://clicktv1.live/HaiderHlail/23735816/533
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS English SD1
+http://clicktv1.live/HaiderHlail/23735816/534
+#EXTINF:-1 group-title="BEIN SP⚽️RTS ᴸᴼᵂ بين سبورت" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title=" ,BEIN SPORTS English SD2
+http://clicktv1.live/HaiderHlail/23735816/535
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴴᴰ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC HD1
+http://clicktv1.live/HaiderHlail/23735816/580
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴴᴰ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC HD2
+http://clicktv1.live/HaiderHlail/23735816/582
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴴᴰ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC HD3
+http://clicktv1.live/HaiderHlail/23735816/584
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴴᴰ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC HD4
+http://clicktv1.live/HaiderHlail/23735816/586
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴴᴰ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC HD5
+http://clicktv1.live/HaiderHlail/23735816/588
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴸᴼᵂ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC 1 SD
+http://clicktv1.live/HaiderHlail/23735816/596
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴸᴼᵂ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC 2 SD
+http://clicktv1.live/HaiderHlail/23735816/597
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴸᴼᵂ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC 3 SD
+http://clicktv1.live/HaiderHlail/23735816/598
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴸᴼᵂ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC 4 SD
+http://clicktv1.live/HaiderHlail/23735816/599
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴸᴼᵂ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,|SSC| SSC SPORTS 1 LOW
+http://clicktv1.live/HaiderHlail/23735816/603
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴸᴼᵂ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,|SSC| SSC SPORTS 2 LOW
+http://clicktv1.live/HaiderHlail/23735816/604
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴸᴼᵂ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,|SSC| SSC SPORTS 3 LOW
+http://clicktv1.live/HaiderHlail/23735816/605
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴸᴼᵂ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,|SSC| SSC SPORTS 4 LOW
+http://clicktv1.live/HaiderHlail/23735816/606
+#EXTINF:-1 group-title="SSC SP⚽️RTS ᴸᴼᵂ إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,|SSC| SSC SPORTS 5 LOW
+http://clicktv1.live/HaiderHlail/23735816/607
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC Extra 1 HD
+http://clicktv1.live/HaiderHlail/23735816/590
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC Extra 1 4K
+http://clicktv1.live/HaiderHlail/23735816/591
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC Extra 2 HD
+http://clicktv1.live/HaiderHlail/23735816/592
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC Extra 2 4K
+http://clicktv1.live/HaiderHlail/23735816/593
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC Extra 3 HD
+http://clicktv1.live/HaiderHlail/23735816/594
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC Extra 3 4K
+http://clicktv1.live/HaiderHlail/23735816/595
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC extra 1 SD
+http://clicktv1.live/HaiderHlail/23735816/600
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC extra 2 SD
+http://clicktv1.live/HaiderHlail/23735816/601
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,SSC extra 3 SD
+http://clicktv1.live/HaiderHlail/23735816/602
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,|SSC| SSC SPORTS EXTRA 1 LOW
+http://clicktv1.live/HaiderHlail/23735816/608
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,|SSC| SSC SPORTS EXTRA 2 LOW
+http://clicktv1.live/HaiderHlail/23735816/609
+#EXTINF:-1 group-title="SSC SP⚽️RTS EXTRA إس إس سبورت" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" ,|SSC| SSC SPORTS EXTRA 3 LOW
+http://clicktv1.live/HaiderHlail/23735816/610
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" ,AD Sport Premium 1 4K
+http://clicktv1.live/HaiderHlail/23735816/616
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" ,AD Sport Premium 1 HD
+http://clicktv1.live/HaiderHlail/23735816/617
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" ,AD Sport Premium 1 SD
+http://clicktv1.live/HaiderHlail/23735816/618
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" ,AD Sport Premium 2 4K
+http://clicktv1.live/HaiderHlail/23735816/619
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" ,AD Sport Premium 2 HD
+http://clicktv1.live/HaiderHlail/23735816/620
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" ,AD Sport Premium 2 SD
+http://clicktv1.live/HaiderHlail/23735816/621
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" ,AD Sports Asia 1 FHD
+http://clicktv1.live/HaiderHlail/23735816/622
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" ,AD Sports Asia 2 FHD
+http://clicktv1.live/HaiderHlail/23735816/623
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" ,AD Sports 1 FHD
+http://clicktv1.live/HaiderHlail/23735816/624
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" ,AD Sports 2 FHD
+http://clicktv1.live/HaiderHlail/23735816/625
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="http://x12tv.co/uploads/channels/ad11111111111.jpeg" ,Abu Dhabi Sports 1 HD
+http://clicktv1.live/HaiderHlail/23735816/630
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="http://x12tv.co/uploads/channels/ad22222222.jpeg" ,Abu Dhabi Sports 2 HD
+http://clicktv1.live/HaiderHlail/23735816/631
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="http://x12tv.co/uploads/channels/ad33333.jpeg" ,ABU DHABI 1 PREMIUM HD
+http://clicktv1.live/HaiderHlail/23735816/632
+#EXTINF:-1 group-title="AD SP⚽️RTS ⁴ᴷ أبو ظبي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" ,ABU DHABI 2 PREMIUM FHD
+http://clicktv1.live/HaiderHlail/23735816/633
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" ,AL Kass 1HD
+http://clicktv1.live/HaiderHlail/23735816/626
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" ,AL Kass 2HD
+http://clicktv1.live/HaiderHlail/23735816/627
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" ,AL Kass 3HD
+http://clicktv1.live/HaiderHlail/23735816/628
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" ,AL Kass 4HD
+http://clicktv1.live/HaiderHlail/23735816/629
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="http://x12tv.co/uploads/channels/ksa111111111.jpeg" ,KSA SPORT1 HD
+http://clicktv1.live/HaiderHlail/23735816/634
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="http://x12tv.co/uploads/channels/ksa111111111.jpeg" ,KSA SPORT2 HD
+http://clicktv1.live/HaiderHlail/23735816/635
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="http://x12tv.co/uploads/channels/2+.jpeg" ,KSA SPORT 3 HD
+http://clicktv1.live/HaiderHlail/23735816/636
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="http://www.ass-media.de/pic/upload/2016/06/05/20160605163256-6cc7c1ff.png" ,Kuwait Sports HD
+http://clicktv1.live/HaiderHlail/23735816/637
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/228/80/png-clipart-al-ahly-sc-egyptian-premier-league-cairo-zamalek-sc-egypt-national-football-team-football-emblem-egypt.png" ,Al Ahly Sports
+http://clicktv1.live/HaiderHlail/23735816/638
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="https://e7.pngegg.com/pngimages/265/175/png-clipart-zamalek-sc-al-ahly-sc-egypt-cup-association-football-manager-egypt.png" ,Zamalek Sports
+http://clicktv1.live/HaiderHlail/23735816/639
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png" ,ON TIME Sport 1
+http://clicktv1.live/HaiderHlail/23735816/640
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/On_Time_Sports_Logo.png/1200px-On_Time_Sports_Logo.png" ,ON TIME  Sport 2
+http://clicktv1.live/HaiderHlail/23735816/641
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/On_Time_Sports_Logo.png/1200px-On_Time_Sports_Logo.png" ,ON TIME SPORTS 3
+http://clicktv1.live/HaiderHlail/23735816/642
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="http://x12tv.co/A/DB.png" ,DUBAI SPORT 1
+http://clicktv1.live/HaiderHlail/23735816/643
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="http://x12tv.co/A/DB.png" ,DUBAI SPORT 2
+http://clicktv1.live/HaiderHlail/23735816/644
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="https://television-live.com/uploads/ectheheyther.png" ,DUBAI SPORT 3
+http://clicktv1.live/HaiderHlail/23735816/645
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/YasSports-e1600094421460.png" ,YAS Sports HD
+http://clicktv1.live/HaiderHlail/23735816/646
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="http://x12tv.co/uploads/channels/124.jpg" ,KUWAIT Sport hd
+http://clicktv1.live/HaiderHlail/23735816/647
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="http://x12tv.co/uploads/channels/120.jpg" ,Kuwait Sport Plus
+http://clicktv1.live/HaiderHlail/23735816/648
+#EXTINF:-1 group-title="ARABIC SP⚽️RTS ⁴ᴷ عربي سبورت" tvg-logo="http://x12tv.co/uploads/channels/Jordan Sports.jpeg" ,Jordan Sports
+http://clicktv1.live/HaiderHlail/23735816/649
+
+#EXTM3U
+#EXTINF:-1 group-title="Ar Sport" tvg-logo="http://51.254.37.90/Logo/Ar.Sport/SSC.1.png" ,ar: SSC.1
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/140
+#EXTINF:-1 group-title="Ar Sport" tvg-logo="http://51.254.37.90/Logo/Ar.Sport/SSC.2.png" ,ar: SSC.2
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/141
+#EXTINF:-1 group-title="Ar Sport" tvg-logo="http://51.254.37.90/Logo/Ar.Sport/SSC.3.png" ,ar: SSC.3
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/144
+#EXTINF:-1 group-title="Ar Sport" tvg-logo="http://51.254.37.90/Logo/Ar.Sport/SSC.4.png" ,ar: SSC.4
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/145
+#EXTINF:-1 group-title="Ar Sport" tvg-logo="http://51.254.37.90/Logo/Ar.Sport/SSC.5.png" ,ar: SSC.5
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/146
+#EXTINF:-1 group-title="Ar Sport" tvg-logo="http://51.254.37.90/Logo/Ar.Sport/SSC.6.png" ,ar: SSC.6
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/149
+#EXTINF:-1 group-title="Ar Sport" tvg-logo="http://51.254.37.90/Logo/Ar.Sport/SSC.7.png" ,ar: SSC.7
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/152
+#EXTINF:-1 group-title="Ar Sport" ,ar: Alkass.one.HD
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/497
+#EXTINF:-1 group-title="Ar Sport" ,ar: Alkass.two.HD
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/442
+#EXTINF:-1 group-title="Ar Sport" ,ar: Alkass.four.HD
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/179
+#EXTINF:-1 group-title="Ar Sport" ,ar: Alkass.five.HD
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/715
+#EXTINF:-1 group-title="Ar Sport" ,ar: AD.Sports.Premium.1
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/122
+#EXTINF:-1 group-title="Ar Sport" ,ar: AD.Sports.Premium.2
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/603
+#EXTINF:-1 group-title="Ar Sport" ,ar: AD.Sports.3.HD
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/57
+#EXTINF:-1 group-title="Ar Sport" ,ar: AD.Sports.4
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/61
+#EXTINF:-1 group-title="Ar Sport" ,ar: AD.Sports.5
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/62
+#EXTINF:-1 group-title="Ar Sport" ,ar: Al.Ahly.TV
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/783
+#EXTINF:-1 group-title="Ar Sport" ,ar: Dubai.Racing.1
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/80
+#EXTINF:-1 group-title="Ar Sport" ,ar: Dubai.Racing.2
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/81
+#EXTINF:-1 group-title="Ar Sport" ,ar: Dubai.SPORT1
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/154
+#EXTINF:-1 group-title="Ar Sport" ,ar: Jordan.Sport
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/82
+#EXTINF:-1 group-title="Ar Sport" ,ar: KSA.Sports.1
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/17
+#EXTINF:-1 group-title="Ar Sport" ,ar: KSA.Sports.2
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/18
+#EXTINF:-1 group-title="Ar Sport" ,ar: Neelain.Sport
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/1028
+#EXTINF:-1 group-title="Ar Sport" ,ar: Nile.Sport
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/183
+#EXTINF:-1 group-title="Ar Sport" ,ar: ON.Sport.HD
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/85
+#EXTINF:-1 group-title="Ar Sport" ,ar: YAS.Sports
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/87
+#EXTINF:-1 group-title="Ar Sport" ,ar: DMC.Sports
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/79
+#EXTINF:-1 group-title="Ar Sport" ,ar: KTV.Sport
+http://proiptv.tn:1234/Gurckan/QAneddrAmy/288
